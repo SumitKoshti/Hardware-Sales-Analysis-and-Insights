@@ -1,5 +1,6 @@
 # Hardware-Sales-Analysis_And_Insights
 See Dashboard [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNDk0MzNkNTAtYzliMS00Y2E5LWFlZjAtZDkzN2JlYWIzN2RkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 ![See Report](Key_Insights.png)
 
 🎯 Project Objective : 
