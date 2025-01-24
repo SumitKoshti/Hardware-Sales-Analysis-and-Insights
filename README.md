@@ -6,7 +6,7 @@ See Dashboard [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoi
 🎯 Project Objective:
 In this collaborative project utilizing SQL and Power BI, our focus is on analyzing AtliQ Hardware sales data to derive valuable insights essential for informed business decisions and strategic initiatives aimed at fostering growth in light of the organization's declining sales.
 
-Solutions:
+Project Process:
 
 🔍 Data Collection: Gathered comprehensive data from diverse zones and markets to ensure a holistic representation of sales performance.
 
