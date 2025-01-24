@@ -7,6 +7,7 @@ See Dashboard [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoi
 In this collaborative project utilizing SQL and Power BI, our focus is on analyzing AtliQ Hardware sales data to derive valuable insights essential for informed business decisions and strategic initiatives aimed at fostering growth in light of the organization's declining sales.
 
 Solutions:
+
 🔍 Data Collection: Gathered comprehensive data from diverse zones and markets to ensure a holistic representation of sales performance.
 
 📊 Data Analysis: Conducted thorough data mining to extract meaningful patterns and trends, enabling a deeper understanding of the factors contributing to the declining sales.
