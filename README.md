@@ -35,10 +35,16 @@ Visual elements include graphs, charts, and tables that enhance the accessibilit
 7. Professional Presentation: Ensured a professional look and feel for the dashboard, aligning with industry standards. The layout is intuitive, with a user-friendly interface to encourage widespread adoption among decision-makers.
 
 🛠️ Tools Used :
-1. 
-2.
-3. 
-4. 
+● MySQL:
+1. Database Dump
+2. Data Checkup & Cleanup
+3. Ad Hoc Analysis
+4. Solved business problems through SQL queries.
+
+● Power BI:
+1. Data Import
+2. DAX Queries & Measures Creation 
+3. Report Building & Visualization
 
 📊 Insights & Recommedations: 
 
