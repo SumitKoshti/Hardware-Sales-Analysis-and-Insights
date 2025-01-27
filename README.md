@@ -62,10 +62,13 @@ Visual elements include graphs, charts, and tables that enhance the accessibilit
 1. Mumbai, Delhi NCR, and Ahmedabad contribute the highest profit percentages, with Lucknow showing negative profit contribution.
 2. Delhi NCR leads in revenue contribution at 54.7%, followed by Mumbai and Ahmedabad.
 
+
 🔄 Recommendations -
 
 1.  Address Sales Decline (COVID Impact):
+
 ● Action: Reassess marketing strategies and focus on pandemic recovery measures to boost sales in the affected period (Jan-Jun 2020). Target regions with the greatest decline with special promotions or offers.
+
 ● Rationale: Sales decline could be linked to the COVID-19 pandemic. Recovery can be aided by adapting sales strategies to the new environment, focusing on high-impact markets.
 
 2. Enhance E-commerce Presence:
